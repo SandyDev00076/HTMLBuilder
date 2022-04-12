@@ -1,0 +1,23 @@
+{
+  "name": "htmlbuilder",
+  "version": "1.0.0",
+  "description": "A package that helps you build an HTML with dependencies already injected into it within script tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyDev00076/HTMLBuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyDev00076/HTMLBuilder/issues"
+  },
+  "homepage": "https://github.com/SandyDev00076/HTMLBuilder#readme",
+  "dependencies": {
+    "node-fetch": "2.0.0"
+  }
+}
